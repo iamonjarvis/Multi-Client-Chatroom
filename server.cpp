@@ -10,7 +10,7 @@
  *       Compiler:  g++ (Linux), MSVC (Windows)
  *
  *         Author:  Sahil Patra
- *   Organization:  (Optional: You can add any organization, project, or GitHub handle)
+ *  
  *
  * =====================================================================================
  *
