@@ -6,7 +6,7 @@
  *    Description:  Multi-Chat Room Server Program
  *
  *        Version:  1.0
- *        Created:  09/08/2024
+ *     
  *       Compiler:  g++ (Linux), MSVC (Windows)
  *
  *         Author:  Sahil Patra
